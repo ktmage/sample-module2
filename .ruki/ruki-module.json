@@ -1,5 +1,5 @@
 {
-  "id": "project-identifier",
+  "id": "https://github.com/ktmage/sample-module2",
   "dependencies": [],
   "ruki_version": "0.1.0"
 }
